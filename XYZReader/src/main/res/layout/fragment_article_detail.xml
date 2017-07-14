@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <FrameLayout
+        <android.support.design.widget.CoordinatorLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
@@ -23,14 +23,11 @@
                 <ImageView
                     android:id="@+id/photo"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:scaleType="centerCrop"
+                    android:layout_height="wrap_content"
+
                     />
 
-                <View
-                    android:layout_width="wrap_content"
-                    android:layout_height="112dp"
-                    android:background="@drawable/photo_background_protection" />
+
 
             </FrameLayout>
 
@@ -90,7 +87,7 @@
                     android:textSize="@dimen/detail_body_text_size"/>
 
             </com.example.xyzreader.ui.MaxWidthLinearLayout>
-        </FrameLayout>
+        </android.support.design.widget.CoordinatorLayout>
     </com.example.xyzreader.ui.ObservableScrollView>
 
     <android.support.design.widget.FloatingActionButton

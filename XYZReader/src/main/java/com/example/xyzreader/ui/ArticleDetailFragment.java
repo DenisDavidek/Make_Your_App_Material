@@ -250,8 +250,7 @@ public class ArticleDetailFragment extends Fragment implements
                                 mPhotoView.setImageUrl(
                                         mCursor.getString(ArticleLoader.Query.THUMB_URL),
                                         ImageLoaderHelper.getInstance(getContext()).getImageLoader());
-                                //     mPhotoView.setImageBitmap(imageContainer.getBitmap());
-
+                           
                                 mRootView.findViewById(R.id.meta_bar)
                                         .setBackgroundColor(mMutedColor);
                                 updateStatusBar();

@@ -248,6 +248,7 @@ public class ArticleDetailFragment extends Fragment implements
                                 Drawable backgroundDrawable =
                                         new BitmapDrawable(getResources(),imageContainer.getBitmap());
                                 mPhotoView.setBackground(backgroundDrawable);
+
                                 mRootView.findViewById(R.id.meta_bar)
                                         .setBackgroundColor(mMutedColor);
                                 updateStatusBar();

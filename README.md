@@ -1,6 +1,6 @@
 # Make_Your_App_Material
 
-Redesigned an existing app called [XYZReader](https://github.com/udacity/xyz-reader-starter-code) to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app
+Redesigned an existing app called [XYZReader](https://github.com/udacity/xyz-reader-starter-code) to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app. This is a Project 5 of [Udacity's Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801).
 
 ## Inside this app:
 
@@ -17,7 +17,7 @@ This project gives you an opportunity to improve an app’s design, a vital skil
 <img src="images/Projekt5-N9-1.png" width="429"> </img> <img src="images/Projekt5-N9-2.png" width="429"> </img>
 <img src="images/Projekt5-N9-3.png" width="699"> </img> 
 
-<img src="images/Projekt5-N5X-1.png" width="599"> 
+<img src="images/Projekt5-N5X-1.png" width="599"> </img>
 
 # Developer Setup
 
